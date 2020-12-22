@@ -15,7 +15,7 @@
 10. 단어 샘플들의 분포 비율 확인 후, max_len 30으로 설정
 11. LSTM으로 리뷰 감성 분류 시작
 12. 가장 좋은 모델을 기준으로 테스트 데이터 정확도 측정 (기준 val_acc)
-13. Kaggle Sample 데이터를 통한 결과 분류 시작
+13. Kaggle Sample 데이터를 통한 결과 분류 시작 (data.csv)
 14. sample.csv 파일로 export
 
 - 참고한 오픈 소스
