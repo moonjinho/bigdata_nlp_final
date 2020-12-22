@@ -1,4 +1,4 @@
-# bigdata_nlp_final
+# bigdata_nlp_final (KOR)
 빅데이터자연어처리기술 한글 감정분석 기말 과제
 
 - 소스 실행 순서
